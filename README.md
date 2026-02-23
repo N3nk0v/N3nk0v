@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello!
 
-<!--
-**N3nk0v/N3nk0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on cybersecurity and computer science, and I enjoy experimenting by building scripts and tools that solve real security problems.
+My work is centered on security logic, threat analysis, and designing practical solutions that improve system resilience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Portfolio Structure
+
+> Explore my work by area:
+
+- 🔴 **Red Team** — attacker mindset, recon, exploitation practice  
+- 🔵 **Blue Team** — detection, monitoring, hardening, incident-ready scripts  
+- ⚙️ **Security Tools** — practical utilities that solve security problems  
+- 🧪 **Labs** — experiments, setups, and hands-on security testing  
+- 🧠 **Computer Science** — foundations: crypto, networking, algorithms  
+- 📚 **Writeups & Research** — notes, analysis, and structured reports  
+
+---
