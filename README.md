@@ -9,11 +9,11 @@ My work is centered on security logic, threat analysis, and designing practical 
 
 > Explore my work by area:
 
-- 🔴 **Red Team** — attacker mindset, recon, exploitation practice  
-- 🔵 **Blue Team** — detection, monitoring, hardening, incident-ready scripts  
-- ⚙️ **Security Tools** — practical utilities that solve security problems  
-- 🧪 **Labs** — experiments, setups, and hands-on security testing  
-- 🧠 **Computer Science** — foundations: crypto, networking, algorithms  
-- 📚 **Writeups & Research** — notes, analysis, and structured reports  
+- 🔴 **[Red Team](https://github.com/N3nk0v/Red-Team)** — attacker mindset, recon, exploitation practice
+- 🔵 **[Blue Team](https://github.com/N3nk0v/Blue-Team)** — detection, monitoring, hardening, incident-ready scripts
+- 🛠️ **[Security Tools](https://github.com/N3nk0v/Security-Tools)** — practical utilities that solve security problems
+- 🧪 **[Labs](https://github.com/N3nk0v/Labs)** — experiments, setups, and hands-on security testing
+- 🧠 **[Computer Science](https://github.com/N3nk0v/Computer-Science)** — foundations: crypto, networking, algorithms
+- 📚 **[Writeups & Research](https://github.com/N3nk0v/Writeups)** — notes, analysis, and structured reports
 
 ---
