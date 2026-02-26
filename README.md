@@ -1,7 +1,7 @@
-# 👋 Hello!
-
-I focus on cybersecurity and computer science, and I enjoy experimenting by building scripts and tools that solve real security problems.
-My work is centered on security logic, threat analysis, and designing practical solutions that improve system resilience.
+# 👋 Hi All
+I am building my path in cybersecurity and computer science through hands-on projects and continuous learning. 
+Most of the work here reflects my personal learning process — experimenting, testing ideas, breaking things, fixing them, and understanding how systems behave under real-world conditions. 
+I focus on security logic, threat analysis, and creating practical tools that improve resilience and defensive thinking.
 
 ---
 
